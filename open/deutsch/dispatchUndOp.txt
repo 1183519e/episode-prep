@@ -50,6 +50,7 @@ Flight Following
 --------------------------------
 * advise pilots if conditions change. 
 * operations center of the airline. 
+* Bodenunterstützung bei Vorkommnissen oder komplexen Notlagen?
 * Welche Entscheidungen?
 
 
